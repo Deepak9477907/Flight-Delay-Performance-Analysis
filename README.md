@@ -12,6 +12,27 @@ The source dataset contains **5,819,079 flight records from 2015**. The analysis
 
 **Which airlines and airports have the highest flight delays, and how does on-time performance vary across carriers, locations, and time periods?**
 
+## 📂 Dataset
+
+**Dataset:** 2015 Flight Delays and Cancellations
+
+**Source:** U.S. Department of Transportation
+
+**Total Records:** 5,819,079 flights
+
+**Download:** [Kaggle Dataset](https://www.kaggle.com/datasets/usdot/flight-delays)
+
+### Dataset Files
+- flights.csv
+- airlines.csv
+- airports.csv
+
+**Note:** The original flights.csv file (564 MB)
+is excluded from this repository due to its size.
+
+Download it from Kaggle and place it inside
+the 01_DATA folder.
+
 ### Key Business Questions
 
 - Which airlines have the highest arrival-delay rates and average delays?
