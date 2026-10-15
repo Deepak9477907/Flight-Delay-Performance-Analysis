@@ -1,0 +1,10 @@
+@"
+**/flights.csv
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/.venv/
+"@ | Set-Content .gitignore
+Add-Content .gitignore "01_DATA/flights.csv"
+git add .gitignore
+
+/01_DATA/flights.csv
