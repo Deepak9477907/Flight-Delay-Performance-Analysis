@@ -30,8 +30,7 @@ The source dataset contains **5,819,079 flight records from 2015**. The analysis
 **Note:** The original flights.csv file (564 MB)
 is excluded from this repository due to its size.
 
-Download it from Kaggle and place it inside
-the 01_DATA folder.
+Download it from Kaggle
 
 ### Key Business Questions
 
